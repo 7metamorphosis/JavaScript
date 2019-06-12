@@ -25,3 +25,5 @@
 * [x] JSON.stringify 实现
 * [x] `new` koa2中间件原理 koa-compose
 * [x] `new` promise相关的api的实现(all,race,finally)
+
+文章地址： https://juejin.im/post/5cef46226fb9a07eaf2b7516
